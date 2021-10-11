@@ -1,0 +1,14 @@
+{
+  "name": "w0301",
+  "version": "1.0.0",
+  "description": "",
+  "main": "030101.js",
+  "scripts": {
+    "start": "node  030101.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
